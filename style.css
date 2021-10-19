@@ -247,7 +247,7 @@ figure.effect-sarah:hover p {
 }
 
 
-@media (max-width: 375px) {
+@media (max-width: 374px) {
 	.grid figure{
 		min-width: 300px;
     	max-width: 460px;
