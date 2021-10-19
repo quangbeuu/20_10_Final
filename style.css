@@ -230,3 +230,27 @@ figure.effect-sarah:hover p {
 .social-icons a:hover{
     background-color: #e21212;
 }
+
+
+@media (max-width: 1023px){
+	.grid{
+		top: -120px;
+	}
+
+	figure.effect-sarah h2{
+		font-size: 25px;
+	}
+
+	.fix_long{
+		letter-spacing: 4px;
+	}
+}
+
+
+@media (max-width: 375px) {
+	.grid figure{
+		min-width: 300px;
+    	max-width: 460px;
+    	max-height: 340px;
+	}
+}
