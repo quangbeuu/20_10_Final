@@ -26,7 +26,7 @@ let girl = [
     {
         surname: 'Nguyễn',
         name: 'Quỳnh Anh',
-        img: '../img/Qa.png',
+        img: '../img/Qa.PNG',
         desc:'Chúc Cocoa ngày càng thành công, hạnh phúc và gặp nhiều may mắn nha '
     },
     {
