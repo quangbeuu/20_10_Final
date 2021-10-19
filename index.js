@@ -33,7 +33,7 @@ let girl = [
         surname: 'Phạm Thị',
         name: 'Phương Anh',
         img: '../img/Pa.jpg',
-        desc:'Chúc Phương Anh 20/10 vui vẻ, ăn hoài hông bếu'
+        desc:'Chúc Phương Anh 20/10 vui vẻ, ăn hoài hông bếu, ế thì lấy đồ ăn làm ny nha'
     },
     {
         surname: 'Hà Mỹ',
@@ -93,7 +93,7 @@ let girl = [
         surname: 'Nguyễn Thị',
         name: 'Khánh Linh',
         img: '../img/LinhNguyen.jpg',
-        desc:'Chúc Linh luôn xinh đẹp, sang Đức có nhiều bạn bè hơn, cởi mở, đừng độc thân vui tính nữa, chúc bạn sẽ tìm được thành công nghệ truyền thông'
+        desc:'Chúc Linh luôn xinh đẹp, sang Đức có nhiều bạn bè hơn, cởi mở, đừng độc thân vui tính nữa, chúc bạn sẽ tìm được thành công trong ngành công nghệ truyền thông'
     },
     {
         surname: 'Nguyễn Thị',
