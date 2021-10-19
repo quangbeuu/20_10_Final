@@ -3,13 +3,13 @@ body{
 	background-color: #2f3238;
 }
 
-.logo{
+.logo a{
 	display: flex;
 	justify-content: center;
 	align-items: center;
 }
 
-.logo img{
+.logo a img{
 	background-color: #2f3238;
 	width:50%;
 	height: 50%;

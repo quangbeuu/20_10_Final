@@ -21,7 +21,7 @@ let girl = [
         surname: 'Nguyễn',
         name: 'Phương Anh',
         img: '../img/PhuongAn.jpg',
-        desc:''
+        desc:'Chúc Phanh k bếu 20/10 vui vẻ nha. Sau này giàu đừng quên t, t là ai thì k nói'
     },
     {
         surname: 'Nguyễn',
