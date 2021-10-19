@@ -104,7 +104,7 @@ let girl = [
     {
         surname: 'Nguyễn Thị',
         name: 'Nhung',
-        img: '../img/111.png',
+        img: '../img/111.PNG',
         desc:'Muốn chúc bạn chăm chỉ và học giỏi hay đạt học bổng. Nhưng mà bạn có thiếu đâu mà tôi chúc. Thôi thì ôi bạn ơi, đi kiếm ny đc ròi b ợ'
     },
     {
